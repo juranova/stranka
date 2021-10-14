@@ -1,0 +1,7 @@
+../admin::
+../public/thema/domov/index::Domov
+../public/thema/spravy/index::Správy
+../public/thema/onas/index::O nás
+../public/thema/galeria/index::Fotogaléria
+../public/thema/forum/index::Forum
+../public/thema/kontakt/index::Kontakt
